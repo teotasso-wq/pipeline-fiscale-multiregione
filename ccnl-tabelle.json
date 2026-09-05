@@ -1,0 +1,54 @@
+{
+  "TERZIARIO_COMMERCIO": {
+    "nome": "Terziario, Distribuzione e Servizi — Confcommercio",
+    "codice_cnel": "H011",
+    "mensilita": 14,
+    "decorrenza": "2025-11-01",
+    "fonte": "Confcommercio Vicenza (associazione territoriale, ripubblica la circolare nazionale) — tabella Novembre 2025",
+    "fonte_url": "https://www.confcommerciovicenza.info/notiziario-sindacale/ccnl-terziario-distribuzione-e-servizi-le-tabelle-retributive-di-novembre-2025",
+    "affidabilita": "verificato",
+    "aliquota_inps_datore": 0.2898,
+    "inail_tipica": 0.05,
+    "fonte_costo_datore": "SRLonline.com (28,98% verificato); INAIL tipica commercio/ufficio ~0,4-0,5 per mille secondo FunniFin.com (stimata, non da fonte INAIL diretta)",
+    "nota": "Prossima tranche di aumento prevista 1 novembre 2026 (non ancora inclusa qui — richiede riverifica a quella data). Rinnovo 22/03/2024, valido fino al 31/03/2027.",
+    "livelli": [
+      {"livello": "Quadro (1Q)", "minimo": 2183.09, "contingenza": 540.37, "indennita_funzione": 260.76, "terzo_elemento": 6.20, "totale": 2990.42},
+      {"livello": "1", "minimo": 1966.54, "contingenza": 537.52, "indennita_funzione": 0, "terzo_elemento": 6.20, "totale": 2510.26},
+      {"livello": "2", "minimo": 1701.04, "contingenza": 532.54, "indennita_funzione": 0, "terzo_elemento": 6.20, "totale": 2239.78},
+      {"livello": "3", "minimo": 1453.94, "contingenza": 527.90, "indennita_funzione": 0, "terzo_elemento": 6.20, "totale": 1988.04},
+      {"livello": "4", "minimo": 1257.46, "contingenza": 524.22, "indennita_funzione": 0, "terzo_elemento": 6.20, "totale": 1787.88},
+      {"livello": "5", "minimo": 1136.07, "contingenza": 521.94, "indennita_funzione": 0, "terzo_elemento": 6.20, "totale": 1664.21},
+      {"livello": "6", "minimo": 1019.94, "contingenza": 519.76, "indennita_funzione": 0, "terzo_elemento": 6.20, "totale": 1545.90},
+      {"livello": "7", "minimo": 878.38, "contingenza": 517.51, "indennita_funzione": 0, "terzo_elemento": 6.20, "totale": 1402.09},
+      {"livello": "Operatore di vendita 1° categoria", "minimo": 1187.00, "contingenza": 530.04, "indennita_funzione": 0, "terzo_elemento": 0, "totale": 1717.04},
+      {"livello": "Operatore di vendita 2° categoria", "minimo": 994.96, "contingenza": 526.11, "indennita_funzione": 0, "terzo_elemento": 0, "totale": 1521.07}
+    ]
+  },
+  "METALMECCANICI_INDUSTRIA": {
+    "nome": "Metalmeccanici e Installatori di Impianti — Federmeccanica/Assistal",
+    "codice_cnel": "C011",
+    "mensilita": 13,
+    "decorrenza": "2026-06-01",
+    "fonte": "Comunicazione FIM-CISL del 15/06/2026, citata concordemente da 3 fonti indipendenti (calcolonetto.it, leggeinchiaro.it, bustaia.it) — importi identici al centesimo",
+    "affidabilita": "stimato — fonti secondarie concordanti, nessuna fonte primaria (Federmeccanica.it) letta direttamente in sessione",
+    "aliquota_inps_datore": 0.30,
+    "inail_tipica": 1.5,
+    "fonte_costo_datore": "FunniFin.com indica 29-31% per Industria/Metalmeccanici (stimato, punto medio). INAIL 1,5% è un valore di partenza indicativo per manifattura leggera — varia molto per lavorazione specifica, verificare il tasso reale.",
+    "nota": "Rinnovo 22/11/2025, valido 2025-2028. Minimi indicizzati IPCA-NEI, prossima tranche 1 giugno 2027. Nomenclatura livelli cambiata dal 2021 (1°-8° numerico -> D1...A1 a lettere): NON confondere con tabelle pre-2021.",
+    "corrispondenza_vecchia_numerazione": {
+      "D1": "2a categoria (ex 1a categoria eliminata)", "D2": "3° livello", "C1": null, "C2": "4° livello",
+      "C3": "5° livello", "B1": null, "B2": "6° livello", "B3": "7° livello", "A1": "8° livello / Quadro"
+    },
+    "livelli": [
+      {"livello": "D1", "minimo": 1784.94},
+      {"livello": "D2", "minimo": 1979.37},
+      {"livello": "C1", "minimo": 2022.12},
+      {"livello": "C2", "minimo": 2064.88},
+      {"livello": "C3", "minimo": 2211.43},
+      {"livello": "B1", "minimo": 2370.33},
+      {"livello": "B2", "minimo": 2542.98},
+      {"livello": "B3", "minimo": 2838.99},
+      {"livello": "A1", "minimo": 2907.01}
+    ]
+  }
+}
